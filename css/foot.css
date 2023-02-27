@@ -1,0 +1,46 @@
+b{
+  opacity: 0.25;
+}
+#kip:hover{
+  opacity: 1;
+}
+#an:hover{
+  opacity:1;
+}
+#mark{
+  width:30%;
+  height:75%;
+  opacity:0.25;
+}
+
+#mark:hover{
+  opacity:1;
+}
+.culsp{
+  background-color: #050424;
+}
+.ttt{
+  background-color:#070626
+}
+.ult{
+background-color:#050424;
+}
+.cntct{
+  width:25px;
+  opacity: 0.25;
+  height:25px;
+}
+.cntct:hover{
+  opacity:1;
+}
+li{
+  color:#ffffff;
+  opacity:0.5;
+}
+li:hover{
+  opacity:1;
+}
+
+a{
+  text-decoration: none;
+}

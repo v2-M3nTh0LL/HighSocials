@@ -1,0 +1,28 @@
+html,body{
+height:100%;
+}
+#ad{
+  background-color: #00ff2a;
+  height: 10%!important;
+}
+#ad2{
+  background: #b1ffad;
+  height:90%!important;
+}
+.custom {
+
+    width: 50% !important;
+}
+
+.txt{
+  opacity: 0.8;
+}
+
+#img{
+  opacity:0.6;
+  width:100px;
+  height:100px;
+}
+#img:hover{
+  opacity:1;
+}

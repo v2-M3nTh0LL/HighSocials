@@ -1,0 +1,40 @@
+
+/*  #fb{
+background-color: #d000ff;
+}*/
+#ig{
+background-color: #fff200;
+}
+/*#yt{
+background-color: #7fffd4;
+}*/
+#fb{
+background-color: #00f;
+}
+#ig:hover{
+background-color: #ff1a75;
+}
+
+#yt{
+background-color: #cc0000;
+}
+
+@media screen and (max-width:992px){
+#fb{
+background-color: #00f;
+}
+#ig{
+background-color: #ff1a75;
+}
+#yt{
+background-color: #cc0000;
+}}
+.mgic{
+wtransition-property: background;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+
+html,body{
+height:100%;
+}

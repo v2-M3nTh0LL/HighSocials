@@ -1,0 +1,39 @@
+html,body{
+height:100%;
+}
+footer{
+  background-color:#070626;
+}
+
+#bac{
+z-index:81;
+position:absolute;
+margin-left:5px;
+margin-top: 10px;
+height:20px;
+width:20px;
+}
+#gp{
+background-color: #00f;
+}
+#pg{
+background-color: #0000cc;
+}
+
+#pst{
+background-color: #00f;
+}
+.mgic{
+  transition-property: background;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+#gp:hover{
+  background-color:#00ddff ;
+}
+#pg:hover{
+  background-color:#ff7b29;
+}
+#pst:hover{
+  background-color:#00ff2a;
+}
